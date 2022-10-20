@@ -1,2 +1,6 @@
+# scala
 *.class
 *.log
+
+# mac os
+.DS_Store
